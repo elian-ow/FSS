@@ -1,24 +1,18 @@
+# Flugzeug Simulator
 
-> Diese Seite bei [https://elian-ow.github.io/fss/](https://elian-ow.github.io/fss/) öffnen
+> **Konzept**
 
-## Als Erweiterung verwenden
+- bewegendes Schiff nach vorne
+- Schiff soll nicht die Wände berühren
+- Man soll wie weit wie möglich die Schiff fahren
+- Tasten: Taste A, Taste B, Schütteln
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
+[
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/elian-ow/fss** suchen und importieren
+## Spielanleitung
 
-## Dieses Projekt bearbeiten
+[Foto der Calliope mit Beschriftung]
 
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/elian-ow/fss** ein und klicke auf Importieren
-
-#### Metadaten (verwendet für Suche, Rendering)
-
-* for PXT/calliopemini
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+1. Spiel starten (A + B)
+2. Der Schiff steueren (links u. rechts)
+3. 
